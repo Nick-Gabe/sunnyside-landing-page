@@ -1,9 +1,9 @@
-# 🌞Sunnyside Agency - Landing Page
+# 🌞[Sunnyside Agency - Landing Page](https://nick-gabe.github.io/sunnyside-landing-page/)
 ![Final version](./design/screenshot.png)
 
 ## Links
 
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://nick-gabe.github.io/sunnyside-landing-page/)
 
 ## Built with
 
